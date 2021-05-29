@@ -1,0 +1,26 @@
+
+.el-message{
+    height: 12vw;
+    width:90vw;
+    .el-message__icon{
+        font-size: 4vw;
+    }
+    .el-message__content{
+        font-size: 4vw;
+    }
+}
+
+.el-picker-panel{
+.el-picker-panel__body-wrapper{
+    font-size: 2vw;
+    .el-input__inner{
+        font-size: 2.5vw;
+    }
+}
+.el-picker-panel__footer{
+    font-size: 3vw;
+}
+}
+.el-icon-close:before{
+    font-size: 5vw;
+}
